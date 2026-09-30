@@ -29,3 +29,19 @@ The dataset is manually created using:
 3. Train the Decision Tree model.
 4. Give new ball features to the model.
 5. Predict the type of ball.
+
+## Example
+
+**Input:**
+
+```python
+[[35, 1]]
+```
+
+**Output:**
+
+```text
+Ball classification case study
+<class 'numpy.ndarray'>
+Object looks like tennis ball
+```
